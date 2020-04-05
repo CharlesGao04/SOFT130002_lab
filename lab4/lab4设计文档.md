@@ -31,9 +31,6 @@
   </ul>
 ```
 
-> 导航栏
-
-![](E:\A Picture\A Snipaste\snipaste_20200405_172358.png)
 
 #### 2.头图：
 
@@ -43,9 +40,6 @@
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 ```
 
-> 头图
-
-![](E:\A Picture\A Snipaste\snipaste_20200405_172436.png)
 
 #### 3.图片展示：
 
@@ -70,9 +64,6 @@
             </div>
 ```
 
-> 图片展示
-
-![](E:\A Picture\A Snipaste\snipaste_20200405_171926.png)
 
 #### 4.页脚：
 
@@ -88,7 +79,3 @@
 #### 5.辅助图标：
 
 刷新和回到顶部，加上矢量图标，href链接当前页面，刷新通过alert提示，与原有一致
-
-> 页脚和辅助图标
-
-![](E:\A Picture\A Snipaste\snipaste_20200405_171937.png)
