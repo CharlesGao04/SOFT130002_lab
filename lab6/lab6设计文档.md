@@ -83,7 +83,7 @@ Array是数组，元素可以重复，可以与map转换，可通过push添加�
 
 #### Github截图
 
-![](https://github.com/CharlesGao04/SOFT130002_lab/blob/master/lab6/github.png)
+![Github](github.png)
 
 #### 命令行截图
 
