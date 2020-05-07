@@ -83,8 +83,8 @@ Array是数组，元素可以重复，可以与map转换，可通过push添加�
 
 #### Github截图
 
-![](../lab6/github.png)
+![](github.png)
 
 #### 命令行截图
 
-![](../lab6/命令行.png)
+![](命令行.png)
